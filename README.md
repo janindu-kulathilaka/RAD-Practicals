@@ -1,0 +1,2 @@
+# RAD-Practicals
+For Academic
